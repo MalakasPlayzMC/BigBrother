@@ -17,7 +17,7 @@
 
 namespace shoghicp\BigBrother\network;
 
-use pocketmine\network\mcpe\protocol\DataPacket;
+use pocketmine\network\protocol\DataPacket;
 use pocketmine\network\SourceInterface;
 use pocketmine\Player;
 use pocketmine\utils\MainLogger;
